@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    font-family:'Montserrat' !important;
+}
+
+body {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.container{
+    width: 1920px;
+    height: 1080px;
+
+    display: flex;
+    background: #F7F7F8;
+}
